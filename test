@@ -1,1 +1,4 @@
-#icnlude
+#icnlude<iostream>
+using namespace std;
+
+
